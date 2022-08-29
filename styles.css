@@ -1,0 +1,136 @@
+
+
+  
+  body {
+    margin: 0 10%;
+    font-family: "Nunito Sans", sans-serif;
+    letter-spacing: 0.5px;
+  }
+  .title {
+    font-weight: 700;
+    font-size: 1.5em;
+  }
+  
+  .container {
+    border: 2px solid #707b7b;
+    margin: 10px;
+    padding: 30px 10px 30px 10px;
+  }
+  .container .first-row {
+    margin: 40px 0;
+  }
+
+  .container .color-box {
+    display: inline-block;
+    width: 30%;
+    padding: 10px;
+    text-align: center;
+  }
+
+  .container .color-box .first {
+    margin: 8px;
+    margin-bottom: 20px;
+  }
+
+  .container .color-box .second {
+    margin: 15px 20px;
+  }
+  
+
+  .color ul {
+    border: 1px solid black;
+    list-style: none;
+     display: inline-block;
+  }
+  
+  .color li {
+    text-align: center;
+    width: 220px;
+    height: 100px;
+  }
+  
+  .color li .first {
+    padding: 5px;
+  }
+  
+  .color li .second {
+    padding: 5px 5px 20px;
+    
+  }
+  .container .font-styles {
+    text-align: left;
+  }
+
+  .container ul.font-box {
+
+    display: inline-block;
+    list-style: none;
+    margin: 20px;
+    margin-left: 0;
+    word-spacing: 1px;
+    padding: 0;
+    
+    
+  }
+
+  .container .font-box li {
+
+    margin: 20px;
+    margin-left: 0;
+    text-align: left;
+  }
+
+  .container .font-box .first {
+    text-decoration: underline;
+    font-size: 1.2em;
+    font-weight: 500;
+  }
+
+  .container .font-styles .title {
+    margin-bottom: 40px;
+  }
+
+  .container .source-code-pro {
+    font-family: "Source code Pro", monospace;
+  }
+
+  .container .nunito-sans {
+    font-family: "Nunito Sans", sans-serif;
+  }
+
+  .container .poppins {
+    font-family: "Poppins", sans-serif;
+  }
+
+  .container .pink {
+    background-color: #d957d9;
+  }
+
+  .container .mint-green {
+    background-color: #4fe0b0;
+  }
+
+  .container .beige {
+    background-color: #efd9ca;
+  }
+
+  .container .blue {
+    background-color: #2d5dcc;
+    color: #fff;
+  }
+
+  .container .italics {
+    font-style: italic;
+  }
+
+  .container .bold {
+    font-weight: 700;
+  }
+
+  .main-title {
+    margin: 10px;
+    padding: 10px;
+    padding-left: 0;
+    font-size: 1.8em;
+    font-weight: 700;
+  }
